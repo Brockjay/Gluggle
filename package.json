@@ -1,0 +1,73 @@
+{
+    "author": "rachel.li.325@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "water",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "water",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/meter2",
+                    "name": "METER2",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/background.png",
+                    "name": "BG2",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/meter.png",
+                    "name": "METER",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/gluggle.png",
+                    "name": "GLUGGLE",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/glass icon.png",
+                    "name": "GLASS",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "fonts/JosefinSans-Light.ttf",
+                    "name": "JOSEFIN_18",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/JosefinSans-Light.ttf",
+                    "name": "JOSEFIN_16",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/JosefinSans-Light.ttf",
+                    "name": "JOSEFIN_28",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "uuid": "0e9c1a25-003b-49b7-8305-bdc4ce57fe5a",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
